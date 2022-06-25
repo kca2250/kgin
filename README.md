@@ -1,5 +1,3 @@
-<!-- @format -->
-
 # Kansai General Information Net(KGIN)
 
 関西の統計情報をまとめたサイト
