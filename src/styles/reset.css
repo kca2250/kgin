@@ -85,3 +85,7 @@ meter {
 :where([draggable="true"]) {
   -webkit-user-drag: element;
 }
+
+body {
+  font-family: "Noto Sans JP", sans-serif;
+}
